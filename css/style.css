@@ -12,3 +12,14 @@
 #welcome-section {
   height: 100vh;
 }
+
+#navbar a {
+    text-decoration:none;
+    font-size: 1.5em;
+    margin: 20px;
+    padding: 8px;
+    border: 2px #590199 solid;
+    border-radius: 8px;
+}
+
+.spacer {height:300px; margin-top: 30px;}
