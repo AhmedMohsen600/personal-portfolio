@@ -1,0 +1,14 @@
+#navbar {
+    position:sticky;
+    top: 0;
+}
+
+
+@media (max-width: 600px) {
+  body {
+    height: 100%;
+    width: 100%;  }
+}
+#welcome-section {
+  height: 100vh;
+}
